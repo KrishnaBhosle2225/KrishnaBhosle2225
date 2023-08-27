@@ -1,4 +1,3 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Krishna Bhosle</h1>
 <h3 align="center">I am a coding enthusiast having problem-solving skills and a good knowledge of Data Structures and algorithms, and I am skilled in C++ and Java. I am highly interested in Web Development and Mobile App Development.</h3>
