@@ -23,10 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krishna-bhosle-9bb528202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishna-bhosle-9bb528202/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/krishnabhosle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/krishnabhosle" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/krishnabhosle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/krishnabhosle" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/kbhosle2000?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kbhosle2000?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kbhosle2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kbhosle2000/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kbhosle2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kbhosle2000/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kbhosle2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kbhosle2000/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kbhosle2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kbhosle2000/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
