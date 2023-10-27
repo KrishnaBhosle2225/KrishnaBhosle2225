@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://krishnabhosle2225.github.io/react-portfolio-website/#](https://krishnabhosle2225.github.io/react-portfolio-website/#)
 
-- 💬 Ask me about **C++, Java, React JS**
+- 💬 Ask me about **C++, Java, React JS, Spring, Spring Boot**
 
 - 📫 How to reach me **kbhosle2000@gmail.com**
 
